@@ -11,7 +11,7 @@
 ### 🔴 1.1 Kasutaja kirjeldus ja eesmärgid
 Kellel on probleem ja miks see lahendamist vajab? Mis on lahenduse oodatud kasu? Milline on hetkel eksisteeriv lahendus?
 
-> Tartu ülikooli õppeinfo süsteemis on tuhandeid õppeaineid ning endale sobivate õppeainete leidmine võib olla üsna keeruline ning aeganõudev - ükshaaval ainete läbikäimine ei ole realistlik ning praegused väga konkreetsete otsingusõnadega filtrid ei ole piisavalt paindlikud. ==Lisaks pole võimalik näha eelmiste semestrite aineid.== Kuna üks Tartu Ülikooli plussidest on just võimalus võtta väga erinevaid õppeaineid ning panna endale kokku just sulle sobiv kava, on eriti vaba- ja valikainete parem otsimine väga tore võimalus tudengite jaoks leida just endale sobivad õppeained. `Kasu ongi see, et saame leida paremaid sobivusi ainete ning tudengite vahel ning teha protsessi lõbusamaks ning ehk ka just integreerida erinevate valdkondade kontakte.`
+> Tartu ülikooli õppeinfo süsteemis on tuhandeid õppeaineid ning endale sobivate õppeainete leidmine võib olla üsna keeruline ning aeganõudev - ükshaaval ainete läbikäimine ei ole realistlik ning praegused väga konkreetsete otsingusõnadega filtrid ei ole piisavalt paindlikud. **Lisaks pole võimalik näha eelmiste semestrite aineid.** Kuna üks Tartu Ülikooli plussidest on just võimalus võtta väga erinevaid õppeaineid ning panna endale kokku just sulle sobiv kava, on eriti vaba- ja valikainete parem otsimine väga tore võimalus tudengite jaoks leida just endale sobivad õppeained. `Kasu ongi see, et saame leida paremaid sobivusi ainete ning tudengite vahel ning teha protsessi lõbusamaks ning ehk ka just integreerida erinevate valdkondade kontakte.`
 
 ### 🔴 1.2 Edukuse mõõdikud
 Kuidas mõõdame rakenduse edukust? Mida peab rakendus teha suutma?
@@ -21,7 +21,7 @@ Kuidas mõõdame rakenduse edukust? Mida peab rakendus teha suutma?
 ### 🔴 1.3 Ressursid ja piirangud
 Millised on ressursipiirangud (nt aeg, eelarve, tööjõud, arvutusvõimsus)? Millised on tehnilised ja juriidilised piirangud (GDPR, turvanõuded, platvorm)? Millised on piirangud tasuliste tehisintellekti mudelite kasutamisele?
 
-> Rakendus võiks töötada avalikel ÕIS2 andmetel ning olla veebipõhine ning vabalt kättesaadav (praeguse aine raames jääb see jooksma lokaalselt). Rakendus peaks kasutama kas vabavaralisi tehisintellekti mudeleid või kui rakenduse edukaks toimimiseks on vaja tasulisi mudeleid, siis tuleb kindlasti vaadata, et kasutamisel oleks piirang vastavalt ressursi olemasolule. Antud projekti raames on meil arenduseks aega ==1 kuu ning umbes 50 EURi 20 inimese peale tasuliste mudelite kasutamiseks.== `Rakendus ei tohi anda kasutajale ebasobivaid ja õppeainete otsinguga mitteseotud vastuseid.`
+> Rakendus võiks töötada avalikel ÕIS2 andmetel ning olla veebipõhine ning vabalt kättesaadav (praeguse aine raames jääb see jooksma lokaalselt). Rakendus peaks kasutama kas vabavaralisi tehisintellekti mudeleid või kui rakenduse edukaks toimimiseks on vaja tasulisi mudeleid, siis tuleb kindlasti vaadata, et kasutamisel oleks piirang vastavalt ressursi olemasolule. Antud projekti raames on meil arenduseks aega **1 kuu ning umbes 50 EURi 20 inimese peale tasuliste mudelite kasutamiseks.** `Rakendus ei tohi anda kasutajale ebasobivaid ja õppeainete otsinguga mitteseotud vastuseid.`
 
 <br>
 <br>
@@ -48,9 +48,7 @@ Millises formaadis andmeid hoiustatakse? Mis on andmete maht ja andmestiku suuru
 ### 🟠 2.4 Andmete kirjeldamise vajadus
 Milliseid samme on vaja teha, et kirjeldada olemasolevaid andmeid ja nende kvaliteeti.
 
-> Vaja on analüüsida 223 veeru tähendused ning välja valida olulised veerud. Seejärel on vaja valida õige veerg info leidmiseks, puhastada json väljad, panna kokku vabatekstilised kirjeldavad tunnused keelemudelile või RAG süsteemile analüüsiks. Vaja on üle vaadata puuduvate tunnuste hulk ning otsustada, mida nendega ette võtta.
-
-*[RAG]: Retrieval-augmented generation (allikapõhine genereerimine)
+> Vaja on analüüsida 223 veeru tähendused ning välja valida olulised veerud. Seejärel on vaja valida õige veerg info leidmiseks, puhastada json väljad, panna kokku vabatekstilised kirjeldavad tunnused keelemudelile või RAG[^1] süsteemile analüüsiks. Vaja on üle vaadata puuduvate tunnuste hulk ning otsustada, mida nendega ette võtta.
 
 <br>
 <br>
@@ -127,3 +125,7 @@ Kuidas ja millise liidese kaudu lõppkasutaja rakendust kasutab? Kuidas rakendus
 Kes vastutab süsteemi tööshoidmise ja jooksvate kulude eest? Kuidas toimub rakenduse uuendamine tulevikus?
 
 > ...
+
+---
+
+[^1]: RAG (Retrieval-Augmented Generation) - allikapõhine genereerimine
