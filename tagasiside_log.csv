@@ -1,0 +1,400 @@
+Aeg,Kasutaja päring,Filtrid,Leitud ID-d,Leitud ained,LLM Vastus,Hinnang,Veatüüp
+2026-03-01 18:03:17,tahan filosoofilist ainet,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['FLFI.01.105', 'FLFI.04.060', 'FLFI.02.189', 'FLFI.01.011', 'FLFI.00.101']",[],"
+Siin on mõned filosoofia kursused, mille kohta andsin sulle infot:
+
+*   **Eksistentsifilosoofia** (FLFI.01.105): Tutvustab eksistentsifilosoofia peamisi tekste ja mõisteid (Kierkegaard, Dostojevski, Nietzsche, Heidegger, Camus, Sartre).
+*   **Vaimufilosoofia** (FLFI.04.060): Sissejuhatus keha-vaimu probleemile, teadvusele, tehisintellektile, mõtlemisele ja keelele.
+*   **Süvendatud sissejuhatus eetikasse ja epistemoloogiasse** (FLFI.02.189): Sügavdatud sissejuhatus kaasaegsesse eetika ja epistemoloogiasse.
+*   **Esteetika** (FLFI.01.011): Uurib kunsti ja filosoofia dialoogi, keskendudes fenomenoloogiale ja modernistlikele kunstisuundadele.
+
+Milline neist tundub Sinule kõige huvitavam?",👍 Hea,
+2026-03-01 18:05:28,keemiline aine bakalaureuse astme jaoks,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['LOKT.04.075', 'MVFA.00.035', 'LOKT.09.016', 'ARFA.02.112', 'LOKT.09.018']",[],"
+Vabandust, aga pakutud kursuste nimekirjas ei ole otseselt filosoofilist ainet. Keemilisi aineid bakalaureuse astme jaoks on aga mitu:
+
+*   **LOKT.04.075 Keskkonnakeemia alused II:** See kursus käsitleb keskkonnaprobleeme põhjustavate keemiliste ainete keemilisi ja füüsikalisi omadusi, analüüsi ja mõju.
+*   **MVFA.00.035 Keemia alused:** See kursus korrutab ja kinnistab keemia alusteadmisi, mis on vajalikud järgnevate farmaatsiakaudiste omandamiseks.
+*   **LOKT.09.016 Materjalide keemia ja puidukeemia valitud peatükke:** See kursus pakub ülevaadet erinevate materiaalide keemilisest koostisest ja omadustest.
+*   **LOKT.09.018 Bioaktiivsete ühendite keemia:** See kursus keskendub bioaktiivsete ainete keemiale, nende koostisele, omadustele ja kasutamisele.
+*   **ARFA.02.112 Farmatseutiline keemia II:** See kursus käsitleb orgaaniliste raviainete analüüsi ja teoreetilisi aluseid.
+
+Kui sul on täpsemad soovid, näiteks konkreetne keemia valdkond, siis saan sind paremini aidata.",👍 Hea,
+2026-03-01 18:06:46,programmeerimise aine doktoriõppes,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['LTFY.05.001', 'MTAT.03.236', 'MTAT.03.236_1', 'MTAT.03.256', 'LTAT.03.018']",[],"
+Vabandust, ma ei leidnud andmebaasist ühtegi filosoofiaainet.
+
+**Keemiline aine bakalaureuse astme jaoks:**
+
+Kahjuks andmebaasis keemiaainet ei leidu.
+
+**Programmeerimise aine doktoriõppes:**
+
+2684 LTAT.03.018 LTAT.03.018 Programmeerimiskeelte alused Programming Language Foundations 6.0 sügis Eristav (A, B, C, D, E, F, mi) inglise keel, eesti keel NaN bakalaureuseõpe, magistriõpe, doktoriõpe, integreeritud bakalaureuse- ja magistriõpe põimõpe NaN
+",👎 Halb,LLM hallutsineeris/vastas valesti
+2026-03-01 18:10:20,aine mis on seotud loomadega,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['OIEO.04.144', 'FLSE.00.260', 'LOKT.09.018', 'LOOM.04.002', 'ARFA.01.116']",[],"Siin on kursused, mis on seotud loomadega:
+
+*   **Loomade õiguskaitse** (unique_ID: 987) – Interdistsiplinaarne kursus loomade õigusliku ja eetilise staatuse uurimiseks.
+*   **Zoosemiootika: omailm ja loomade kommunikatsioon** (unique_ID: 549) – Õpe loomade kommunikatsioonist ja märgilisüsteemidest.
+*   **Etoloogia** (unique_ID: 1871) – Loomade käitumise aluste uurimine.
+*   **Veterinaarravimid** (unique_ID: 1264) – Ülevaade väikeloomade ravimitest ja nende kasutamisest.",👎 Halb,LLM hallutsineeris/vastas valesti
+2026-03-01 18:11:38,3 eap ained,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['SORG.00.069', 'SORG.00.069_1', 'SVMJ.03.013', 'LTBI.00.011', 'MVCM.13.015']",[],"Sa otsid 3 EAP kursusi. Siin on need, mis vastavad sinu kriteeriumitele:
+
+*   **SORG.00.069 Praktika / Internship:** 3.0 EAP, nii kevad- kui sügiskursusena saadaval. Praktika on valikaine, mille läbimisel on üliõpilasel võimalik saada 3 EAP. Praktika loetakse sooritanuks, kui üliõpilane on teinud erialast tööd erinevates organisatsioonides.
+*   **SVMJ.03.013 Juhtimine / Management:** 2.0 EAP (ei vasta täpselt 3 EAP nõudele).
+*   **LTBI.00.011 Laboratoorsed projektid / Laboratory Projects:** 6.0 EAP (jagatud kolmeks 2 EAP projektiks).
+*   **MVCM.13.015 Laborimeditsiin / Laboratory Medicine:** 8.0 EAP (jagatud viieks alamooduliks).",👎 Halb,Otsing leidis valed ained (RAG viga)
+2026-03-01 18:13:37,programeerimine c++,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['LTAT.03.025', 'MTAT.03.158', 'MTAT.03.219', 'SVNC.00.302', 'LTAT.03.001_1']",[],"
+Siin on kursused, mis käsitlevad programmeerimist C++ keeles:
+
+* **LTAT.03.025 Programmideerimine keeles C++** (Programming in C++) - 6 EAP, kevadsemester, hindamisviis Eristav. Eeldab kursuseid LTAT.05.100 või LTAT.03.001.
+* **MTAT.03.158 Programmideerimine keeles C++** (Programming in C++) - 3 EAP, kevadsemester, hindamisviis Eristav.
+* **LTAT.03.001_1 Programmeerimine** (Computer Programming) - 6 EAP, sügissemester, hindamisviis Eristav. See kursus annab alusteadmised programmeerimise põhikonstruktsioonidest.",👎 Halb,Otsing leidis valed ained (RAG viga)
+2026-03-01 18:14:43,magistri aine narvas,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['MV00.00.015', 'MV00.00.015_1', 'SVJS.00.010', 'LTMR.05.004', 'MVCM.13.010']",[],"Vabandust, andmebaasis ei leidu kursusi, mis oleksid magistri tasemel ja Narvas.
+
+Kuid pakun Sulle teavet kursuste kohta, mis on magistri tasemel Tartus:
+
+*   **Magistritöö** (unique\_ID: 192): Magistritöö on tudengi individuaalne uurimisprojekt, mida ta arendab koostöös oma juhendajatega. Kaitstakse ühiskomisjoni ees.
+*   **Nukleiinhapete keemia** (unique\_ID: 789): Kursuse loengu osas antakse tudengitele ülevaade nukleiinhapetest, nende komponentidest, keemilistest omadustest ja ologonikleotiidide keemilisest sünteesist. Praktilises osas õpivad üliõpilased puhastama rakulüsaadist RNA-valk komplekse.
+*   **Nutraceutics, kodune kunstlik toitmine, toitmisalase abi rahalised aspektid** (unique\_ID: 1220): Kursus annab ülevaate, kuidas kliinilised toitmisspetsialistid saavad oma teadmisi kasutades ja rakendades kaasa aidata raviskeemide optimeerimisele.",👎 Halb,Filtrid olid liiga karmid/valed
+2026-03-01 18:19:16,veebipohine aine ,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['HVLC.01.041_1', 'ARST.01.107', 'SVNC.00.310', 'SVUH.08.006', 'P2NC.01.094']",[],"Vabandust, aga sinu küsimus ei ole täielik. Sa palusid veebipõhist ainet, aga sa ei ole täpsustanud, mida sa sellega teha soovid. Kas sa soovid näha loendit veebipõhistest ainetest, saada teavet konkreetse veebipõhise aine kohta või midagi muud?
+
+Siin on veebipõhised ained, mida ma tean vastavalt sinu andmebaasile:
+
+*   **HVLC.01.041 Inglise keel. Üldakadeemiline sõnavara (100% e-õpe), B1.2 > B2.1**
+*   **ARST.01.107 Infotehnoloogia**
+*   **SVNC.00.310 Veebirakenduste loomine**
+*   **SVUH.08.006 Veebiuuringud ja nende disain**
+*   **P2NC.01.094 Veebirakenduste loomine**
+  
+Palun täpsusta oma küsimust, et ma saaksin sind paremini aidata.",👍 Hea,
+2026-03-01 18:22:26,ained tallinas,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['HVKU.00.013_1', 'LTGI.00.005', 'HVVK.00.122', 'HVKU.00.013', 'SVNC.00.068']",[],"
+
+Vabandust, aga andmebaasis ei ole piisavalt teavet, et otsingut täpsustada. Kas saaksid palun täpsustada, mida sa silmas pead ""ainete"" all? Kas sa mõtled Tallinna linnas pakutavaid kursusi? Kui jah, siis siin on need kursused, mis toimuvad Tallinnas:
+
+*   **LTGI.00.005** Teaduspõhine ettevõtlus (Deep Tech Entrepreneurship)
+*   **HVVK.00.122** SoundCamp 2025
+*   **HVKU.00.013** Rakendusantropoloogia: ühiskondlikud väljakutsed ja lahendused (Applied Anthropology: Social Challenges and Solutions) (ka kevadel)
+*   **SVNC.00.068** Keele- ja kultuurikohvik I (Language and Culture Cafe I)",👎 Halb,Otsing leidis valed ained (RAG viga)
+2026-03-01 18:23:12,"ained tallinnas
+","EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['HVVK.00.122', 'HVKU.00.013_1', 'HVKU.00.013', 'LTGI.00.005', 'ARTH.04.045']",[],"
+Vabandust, andmebaasis ei ole piisavalt teavet, et kursuste asukohta täpselt määrata. Siiski on nendest kursustest Tallinnas pakutava kohta järgmist teada:
+
+*   **Teaduspõhine ettevõtlus** (LTGI.00.005) - Tallinn
+*   **Rakendusantropoloogia: ühiskondlikud väljakutsed ja lahendused** (HVKU.00.013_1 ja HVKU.00.013) – Tartu linn",👍 Hea,LLM hallutsineeris/vastas valesti
+2026-03-01 18:23:59,kursused õpetajate jaoks,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['FLGR.01.381', 'HTHT.00.152', 'FLGR.01.362', 'LOOM.02.203', 'LTMS.00.053']",[],"
+Siin on kursuste nimekiri õpetajatele, mis on saadaval andmebaasis:
+
+*   **Inglise keele didaktika II** (English Language Teaching II)
+*   **Suhtlemispsühholoogia baaskursus õpetajale** (Basic Course of Communication Psychology for Teachers)
+*   **Inglise keele didaktika I** (English Language Teaching I)
+*   **Üldmaateadus õpetajatele** (Physical Geography for Teachers)
+*   **Hariduspsühholoogiast matemaatikaõpetajale** (Educational Psychology for Mathematics Teachers)",👍 Hea,
+2026-03-01 18:24:30,matemaatika õpetaja jaoks,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['LTMS.00.053', 'HTHT.02.048', 'HTHT.02.049', 'MTMM.00.324', 'LTMS.00.089']",[],"
+Siin on kursused, mis võivad matemaatika õpetajale huvi pakkuda:
+
+*   **Hariduspsühholoogiast matemaatikaõpetajale (LTMS.00.053)**: Annab ülevaate hariduspsühholoogiast matemaatika õpetamise kontekstis.
+*   **Matemaatika didaktika I (HTHT.02.048)**: Vaatleb matemaatika didaktika üldisi küsimusi ja matemaatika õpetamise psühholoogilisi probleeme, keskendudes I kooliastmele.
+*   **Matemaatika didaktika II (HTHT.02.049)**: Tutvustab õpetamismeetodeid ja töövorme II kooliastme jaoks. Eeldab Matemaatika didaktika I läbimist või samaväärset ainet.
+*   **Matemaatika õpetamise metoodika seminar (LTMS.00.089)**: Seminar keskendub matemaatika õpetamise metoodika ja didaktikaga seotud uurimisküsimustele. Sobib magistri- ja doktoritöö tegijatele.
+*   **Sissejuhatus matemaatika erialasse (MTMM.00.324)**: Tutvustab matemaatika erinevaid valdkondi ja rakendusi.",👍 Hea,
+2026-03-01 18:25:49,startupi juhtimine,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['SVPC.01.074', 'MTAT.03.293', 'SVMJ.02.005', 'MJJV.07.083', 'LTAT.05.040']",[],"
+Vabandan, aga andmebaasis ei leidu kursust, mille nimi oleks ""startupi juhtimine"". Küll on olemas järgmised kursused, mis võiksid olla sinu jaoks asjakohased:
+
+*   **Ettevõtlusega alustamine** (1263): Annab teadmised äriideede arendamisest, analüüsimisest, hindamisest ja rakendamisest, digitaalse tehnoloogia kasutamisest ettevõtluses, finantsplaneetimisest ja riskianalüüsist.
+*   **Sissejuhatus tarkvaraettevõtlusse** (76): Õpetab leidma ja analüüsima probleemolukordi, mille lahendamiseks saab kasutada tarkvara või teenust, ja luuma algse prototüübi.
+*   **Teadmuspõhine iduettevõtlus** (2510): Annab ülevaate teadmuspõhise ettevõtluse põhimõtetest, ärimudelitest ja rahvusvahelistumisest.
+*   **Innovatsiooni juhtimine** (1624): Kujundab arusaama innovatsioonist kui protsessist ja annab teadmised innovatsiooni juhtimisest erinevatel tasanditel.
+*   **Disainmõtlemine ja ärimodelleerimine** (3128): Annab ülevaate tarkvaratoodete juhtimise protsessi korralduse võimalustest ja praktilistest probleemidest.
+
+Milline neist tundub sulle kõige enam huvi pakkuv? Või mida sa konkreetselt start-up'i juhtimisest teada tahad?
+",👍 Hea,
+2026-03-01 18:26:43,idufirma alused,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['FLEE.07.182', 'ARFA.02.116', 'LTBI.00.023', 'ARFA.02.103', 'ARFA.01.078']",[],"
+
+Vabandust, andmebaasis puuduvad kursused, mis käsitleksid ""startupi juhtimist"" või ""idufirma aluseid"". 
+
+Saadaval on järgmised kursused:
+
+*   **FLEE.07.182 Kaugemad sugulaskeeled I**
+*   **ARFA.02.116 Uurimistöö seminar farmatseutilisest tehnoloogiast**
+*   **LTBI.00.023 Icosageni sponsoreeritud praktiline kursus**
+*   **ARFA.02.103 Farmatseutilised abiained**
+*   **ARFA.01.078 Uurimistöö seminar farmakognoosiast**
+
+Kas teist mõni neist teid huvitab?",👎 Halb,Otsing leidis valed ained (RAG viga)
+2026-03-01 18:27:46,muusika loomine' ,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['P2VK.02.510', 'HVVK.02.111', 'HVVK.02.112', 'P2VK.02.728', 'P2VK.05.144']",[],"
+Vabandust, aga andmebaasis ei ole otsest vastet sõnale ""muusika loomine"". Küll aga on kursused, mis võivad seda teemat katta või sellega seotud olla:
+
+*   **Muusika kriitika (P2VK.02.510)**: Käsitletakse muusikakriitika erinevaid vorme, vastutust ja objektiivsust, ning saadakse praktilist kirjutamiskogemust.
+*   **Lõpueksam (rütmimuusika) (HVVK.02.111)**: Loov-praktiline lõputöö on loominguline projekt (nt kontsert, etendus) koos kirjaliku tööga.
+*   **Lõpueksam (pärimusmuusika) (HVVK.02.112)**: Loov-praktiline lõputöö koosneb praktilisest (kontsert, lavastus, projekt) ja teoreetilisest osast.
+*   **Improvisatsioon (P2VK.02.728)**: Muusikaliste võimete ja loominguliste oskuste arendamine, improviseerimistehnikate õppimine.",👎 Halb,Otsing leidis valed ained (RAG viga)
+2026-03-01 18:29:15,aine kus saab õppida muusikat või muusikaajalugu.,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['P2VK.02.515', 'HVVK.00.117', 'HVVK.00.112', 'P2VK.05.144', 'ARTH.02.056']",[],"
+Siin on kursused, mis sobivad sinu otsingule:
+
+*   **Muusikaajalugu (P2VK.02.515):** Annab ülevaate Euroopa kunstmuusikast keskajast tänapäevani, keskendudes stiilide ja kuulmise eristamisele.
+*   **Muusikalugu (HVVK.00.117):** Ülevaade muusikaajaloost.
+*   **TUNE: Traditional Music Beyond Borders, Online Course (HVVK.00.112):**  Teoreetiline ja praktiline sissejuhatus Euroopa regionaalsetesse muusikatraditsioonidesse.
+*   **Võrdlev kultuurilugu muusikas (P2VK.05.144):** Tutvustab maailma kultuure läbi traditsioonilise muusika.",👍 Hea,
+2026-03-01 18:47:08,music history,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['P2VK.02.515', 'HVVK.00.117', 'P2VK.02.510', 'P2VK.05.144', 'HVVK.00.112']",[],"Millist informatsiooni sa muusikalooga seoses soovid? Palun täpsusta oma küsimust. Ma võin sulle anda infot kursuste kohta:
+
+*   **Muusikaajalugu (P2VK.02.515):** Annab ülevaate Euroopa kunstmuusikast keskajast tänapäevani, rõhuga stiilide äratundmisele.
+*   **Muusikalugu (HVVK.00.117):** Sisaldab informatsiooni aine läbitud õppija kohta.
+*   **Võrdlev kultuurilugu muusikas (P2VK.05.144):** Tutvustab maailma kultuure läbi traditsioonilise muusika ja kultuurikontekstide.
+*   **TUNE: Traditional Music Beyond Borders, Online Course (HVVK.00.112):** Pakub teoreetilist ja praktilist sissejuhatust Euroopa rahvaste muusikatraditsioonidesse.",👍 Hea,
+2026-03-01 18:48:27,"soovin veebipõhist 3 või 6 eap bak aseme informaatika või matemaatika kursust, mis toimuks tartus ja oleks sobilik algajale","EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['HVLC.09.038', 'MTAT.07.028', 'ARST.01.107', 'MTAT.03.206', 'HVVK.12.010']",[],"
+Vabandust, andmebaasis ei leidu mingeid kursusi, mis vastaksid täpselt sinu kriteeriumitele (muusikateooria, veebipõhine, 3 või 6 EAP, bakalaureuse taseme, informaatika või matemaatika, Tartus, algajale). 
+
+Lähimad vastused on:
+
+*   **ARST.01.107 Infotehnoloogia** (2 EAP, Tartu linn, bakalaureuseõpe) - See kursus on arstiteadusele, kuid annab arvutialaseid baasteadmisi, mis võiksid olla algajale sobivad.
+* **MTAT.07.028 Infoturve** (3 EAP, kevadsemester, eesti keel) – See kursus on suunatud mitte-informaatikutele ja annab ülevaate infoturbe probleemidest. See võib olla hea sissejuhatus teemasse.
+
+Paraku ei ole andmebaasis muid kursusi, mis tähendaksid just ""muusikateooriat"" või ""muusikajalugu"". Soovitaksin otsida lisaülikooli kodulehelt või otse õppejõududelt.
+",👎 Halb,Otsing leidis valed ained (RAG viga)
+2026-03-01 18:49:21,idufirma või startup või ettevõtlus algajatele,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['MTAT.03.293', 'SVPC.01.074', 'P2NC.01.050', 'LTMR.00.001', 'MJJV.11.001']",[],"
+Siin on kursused, mis sobivad algajatele, kes on huvitatud idufirmast, startupist või ettevõtlusest:
+
+*   **Sissejuhatus tarkvaraettevõtlusse** (MTAT.03.293): See kursus aitab teil välja mõelda ja alustada toote või teenust pakkuvat ettevõtet, lähtudes ""kõhna idufirma"" põhimõtteist. Õpitakse klientide probleemide avastamist, väärtuspakkumise defineerimist ja valideerimist, ning algse prototüübi loomist.
+*   **Ettevõtlusega alustamine** (SVPC.01.074):  Antakse teadmised äriideede arendamisest, analüüsimisest, hindamisest ja rakendamisest. Õpetatakse digitaalsete tehnoloogiate kasutamist ettevõtluses ning äriprotsesside optimeerimist.
+*   **Ettevõtlusega alustamine** (P2NC.01.050): See kursus annab ülevaate ettevõtluse olemusest, ettevõtlusprotsessist ja erinevatest ärimudelitest. 
+*   **Ettevõtluse alused I** (MJJV.11.001):  Tutvutakse ettevõtlusmaailma ideede ja põhimõtetega, töökatete rolliga, ettevõtliku mõtteviisiga, ja äriideede arendamise/hindamisega.",👍 Hea,
+2026-03-01 18:51:00,01100001 01101001 00100000 01100001 01101001 01101110 01100101,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['MTMS.01.010', 'LTMS.00.015', 'HVLC.08.024', 'HTOS.02.451', 'HVLC.08.026']",[],"
+
+Vabandust, aga ma ei saa aru, mida sa küsid. Palun esita oma küsimus selgemalt või kasuta keel, mida ma mõistan. Ma võin vastata ainult siin pakutud kursuste andmete põhjal.
+",👎 Halb,Otsing leidis valed ained (RAG viga)
+2026-03-01 18:52:06,ascii: 97 105 32 97 105 110 101 ,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['FLLC.09.009', 'FLLC.09.009_1', 'MTAT.03.256', 'LTAT.03.005', 'HVLC.09.054_1']",[],"
+Vabandust, ma ei saa aru, mida sa palud. Kas saaksid oma küsimuse ümber sõnastada?",👎 Halb,Otsing leidis valed ained (RAG viga)
+2026-03-01 18:53:16,Molekulaarbioloogia,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['LOMR.05.008', 'LOMR.05.008_1', 'LTMR.06.004', 'LTMR.05.001', 'LOMR.01.003']",[],"
+Siin on kursused, mis sobivad otsingumärksõnaga ""Molekulaarbioloogia"":
+
+*   **Molekulaarbioloogia** (LOMR.05.008 & LOMR.05.008_1) - Annab põhjaliku ülevaate geneetilise informatsiooni ülekande protsessidest (replikatsioon, transkriptsioon, translatsioon) ja põhilistest meetoditest.
+*   **Molekulaarbioloogia alused** (LTMR.05.001) - Ülevaade molekulide struktuuri ja funktsioonide seostest geneetilise teabe ülekandes.
+* **Molekulaarne rakubioloogia** (LTMR.06.004) – Kontsentreeritud ülevaade molekulaarsetest protsessidest rakkudes, mis on aluseks rakkude kohastumisele ja signalisatsioonile.",👍 Hea,
+2026-03-01 18:53:39,Ökoloogia,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['LTOM.01.014', 'LOOM.01.073', 'LOKT.04.016', 'LTOM.02.072', 'LOOM.02.333']",[],"
+Vabandust, aga kursuste loendis ei ole otseselt ""Molekulaarbioloogiat"". Seal on aga kaks ökoloogiaga seotud kursust, mida ma võin kirjeldada:
+
+**1. LTOM.01.014 Ökoloogia alused õpetajatele**
+
+*   **Kirjeldus:** Kursusel käsitletakse ökoloogia aluseid (autökoloogia, sünökoloogia, demökoloogia ja süsteemökoloogia), mida seostatakse igapäevaeluliste probleemidega inimühiskonnas, loodus- ja keskkonnakaitsega. Antakse ülevaate ökoloogilise teadmise arengusuundadest ja Eesti teadlaste panusest.
+*   **Eesmärgid:** Anda ülevaade ökoloogia põhitõdedest, mis on vajalikud õpetajatöös põhikoolis ja gümnaasiumis. Anda põhiteadmised ökoloogilistest seaduspäradest looduses ja inimühiskonnas, seostatuna teiste teadustega (evolutsioon, keskkonnateadused, sotsiaalteadused jne.).
+
+**2. LOOM.01.073 Ökoloogia rakendusi**
+
+*   **Kirjeldus:** Aines käsitletakse näiteid ökoloogia rakendustest põllumajanduses, metsanduses, haljastuses ja keskkonnakaitses. Vaadeldakse, kuidas teoreetilistest üldistustest jõutakse praktiliste lahendusteni.
+*   **Eesmärgid:** Ökoloogia rakenduste kursus valmistab ette spetsialiste, kes oskavad lähtuvalt teoreetilisest ökoloogiast leida konkreetseid praktilisi ja jätkusuutlikke lahendusi sellistes valdkondades nagu põllumajandus, metsandus, jahindus ja keskkonnakaitse.
+
+ Kuna ""Molekulaarbioloogiat"" ei ole, siis ei saa ma selle kohta infot anda.",👍 Hea,
+2026-03-01 18:53:55,Geoloogia,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['LOOM.03.124', 'LOOM.03.078', 'LOOM.03.121', 'LTOM.03.005', 'LOOM.02.143']",[],"
+Vabandust, aga pakutud kursuste nimekirjas ei ole kursusi, mis vastaksid sinu küsitlusele ""Molekulaarbioloogia"", ""Ökoloogia"" ja ""Geoloogia"". Pakutud kursuste hulgas on ainult geoloogilised kursused:
+
+*   **LOOM.03.124** Geotektoonika ja regionaalgeoloogia
+*   **LOOM.03.078** Ehitusgeoloogia
+*   **LOOM.03.121** Ajalooline geoloogia
+*   **LTOM.03.005** Geoloogiline kaardistamine ning regionaal- ja struktuurigeoloogiline välipraktika",👍 Hea,
+2026-03-01 18:54:13,Neuroteadus,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['MVBS.03.006', 'ARFS.01.069', 'SVHI.03.035', 'ARNR.01.031', 'ARNR.01.024']",[],"
+Neuroteadust puudutavad kursused on:
+
+*   **MVBS.03.006** Nimi_et: Närviteadus, Nimi_en: Neuroscience (doktoriõpe, sügis)
+*   **ARFS.01.069** Nimi_et: Närviteadus, Nimi_en: Neuroscience (magistriõpe, doktoriõpe, sügis)
+*   **SVHI.03.035** Nimi_et: Õppimine, õpetamine ja närviteadus, Nimi_en: Learning, Teaching and Neuroscience (doktoriõpe, kevad)
+*   **ARNR.01.031** Nimi_et: Neuroloogia ja neurokirurgia, Nimi_en: Neurology and Neurosurgery (doktoriõpe, kevad)
+*   **ARNR.01.024** Nimi_et: Neuroloogia, Nimi_en: Neurology (integreeritud bakalaureuse- ja magistriõpe, sügis)",👎 Halb,LLM hallutsineeris/vastas valesti
+2026-03-01 18:55:02,Andmeanalüüs Pythoniga,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['HVEE.04.028', 'MTMS.01.069', 'MVPT.00.009', 'MVPT.00.009_1', 'SVNC.00.228']",[],"
+Vabandust, andmeanalüüs Pythoniga otse kursusena ei ole saadaval. Küll on aga olemas kursus **Programmeerimine Pythonis tekstiandmetega (HVEE.04.028)**, mis täiendab esmast programmeerimisoskust Pythonis, sealhulgas andmestruktuuride ja teksti töötlemisega. See võib olla hea alus edaspidiseks andmeanalüüsiks Pythonis.
+",👎 Halb,LLM hallutsineeris/vastas valesti
+2026-03-01 18:55:23,Masinõpe,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['MTAT.03.227', 'SVNC.00.085', 'LTAT.02.004', 'LTAT.01.003', 'LTAT.02.040']",[],"
+Vabandust, andmeanalüüs Pythoniga kursuse kohta andmed puuduvad. Küll aga on olemas järgmised masinõppe kursused:
+
+*   **Masinõpe** (unique\_ID 2055): Magistri- ja doktoriõpe, sügissemester. Hindamismeetod: Eristav (A, B, C, D, E, F, mi). Kurusel käsitletakse masinõppe põhiprintsiipe ja meetodeid, keskendudes juhendatud õppe algoritmidele (otsustuspuud, lineaarsed mudelid, kaugus-põhised mudelid, tõenäosuslikud mudelid, ansambelmudelid ja tehisneurovõrgud).
+*   **Masinõpe ja närvivõrgud** (unique\_ID 2453): Rakenduskõrgharidusõpe, sügissemester. Hindamismeetod: Eristamata (arv, m.arv, mi). Sisaldab juhendatud ja juhendamata õpet, parimaid tavasid masinõppes ning rakendusi nutirobotite, teksti mõistmise ja arvutinägemise alal.
+*   **Masinõpe II** (unique\_ID 1703): Magistriõpe, kevadsemester. Hindamismeetod: Eristav (A, B, C, D, E, F, mi). Laiendab masinõppe meetodite teoreetilisi aluseid. Eeldab varasemat teavet andmeanalüüsist või masinõppest.
+*   **Projektipõhine sissejuhatus masinõppesse (veebikursus)** (unique\_ID 1615): Bakalaureuse-, magistri- ja rakenduskõrgharidusõpe, kevadsemester. Hindamismeetod: Eristamata (arv, m.arv, mi). Praktiline sissejuhatus masinõppesse erinevate valdkondade üliõpilastele, keskendudes andmete töötlemisele, põhiliste masinõppemeetodite rakendamisele ja mudelite hindamisele.",👎 Halb,LLM hallutsineeris/vastas valesti
+2026-03-01 18:56:10,"Mobiilirakenduste arendus,","EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['SVNC.00.301', 'SVNC.00.057', 'LTAT.06.021', 'LTOM.02.050', 'LTAT.05.004']",[],"
+Vabandust, aga andmeanalüüsi Pythoniga ja masinõppe kohta puuduvad andmed. Vastata saan ainult järgmiste kursuste kohta:
+
+**Mobiilirakenduste arendus:**
+
+*   **Kursuse kood:** LTAT.06.021
+*   **Nimi:** Mobiilirakenduste arendus (Mobile Application Development)
+*   **EAP:** 6.0
+*   **Semester:** sügis
+*   **Hindamisviis:** Eristav (A, B, C, D, E, F, mi)
+*   **Keel:** inglise keel
+*   **Õppeaste:** bakalaureuseõpe
+*   **Kirjeldus:** Aine annab sissejuhatava ja praktilise ülevaate mobiilirakenduste arendamisest, keskendudes kõige enam Android-platvormile.
+*   **Eesmärgid:** Anda sissejuhatav ja praktiline ülevaade mobiilirakenduste arendamisest.
+*   **Õpiväljundid:** Oskab luua tarkvara Android platvormile Kotlin programmeerimiskeeles, omab algteadmisi multiplatvorm-tööriistadest ja iOS platvormist, teab turvalise ja kasutajasõbraliku rakenduse disainimist, integreerimist väliste andmeallikatega ja pilveteenuste kasutamist.
+*   **Hindamise info:** Projektipõhine hindamine.
+
+*   **Kursuse kood:** SVNC.00.301
+*   **Nimi:** Mobiilirakenduste loomine (Mobile Application Development)
+*   **EAP:** 6.0
+*   **Semester:** sügis
+*   **Hindamisviis:** Eristamata (arv, m.arv, mi)
+*   **Keel:** eesti keel
+*   **Linn:** Narva linn
+*   **Õppeaste:** rakenduskõrgharidusõpe
+*   **Kirjeldus:** Aines kaetakse järgmised teemad: Mobiilirakendused, Kasutajaliidesed, arendus Android platvormil, asukohapõhised teenused, mobiilne pilv, mobiilsete rakenduste turustamine.
+*   **Eesmärgid:** Anda ülevaade mobiilirakenduste loomise protsessist ja tutvustada rakenduste loomist Google Android platvormil.
+*   **Õpiväljundid:** Rakendab üldtuntud meetodeid mobiilirakenduste loomiseks, loob mobiilrakendusi Google Android platvormil ja teab nende turustamise võimalusi.
+
+*   **Kursuse kood:** SVNC.00.057
+*   **Nimi:** Mobiilirakenduste loomine (Mobile Application Development)
+*   **EAP:** 4.0
+*   **Semester:** sügis
+*   **Hindamisviis:** Eristamata (arv, m.arv, mi)
+*   **Keel:** eesti keel
+*   **Linn:** Narva linn
+*   **Kirjeldus:** Aines kaetakse järgmised teemad: Mobiilirakendused, Kasutajaliidesed, arendus Android platvormil, asukohapõhised teenused, mobiilne pilv, mobiilsete rakenduste turustamine.
+*   **Eesmärgid:** Anda ülevaade mobiilirakenduste loomise protsessist ja tutvustada rakenduste loomist Google Android platvormil.
+*   **Õpiväljundid:** Rakendab üldtuntud meetodeid mobiilirakenduste loomiseks, loob mobiilrakendusi Google Android platvormil ja teab nende turustamise võimalusi.",👎 Halb,LLM hallutsineeris/vastas valesti
+2026-03-01 18:57:03,"Tehisintellekti alused
+","EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['LTAT.01.003', 'LTAT.03.018', 'LTAT.02.034', 'LTAT.06.028_1', 'LTAT.06.028']",[],"
+Kursus **Tehisintellekt (LTAT.01.003)** on sobiv valik.
+
+Siin on selle kohta peamised andmed:
+
+*   **Nimi (et):** Tehisintellekt
+*   **Nimi (en):** Artificial Intelligence
+*   **EAP:** 6.0
+*   **Semester:** kevad
+*   **Hindamisviis:** Eristav (A, B, C, D, E, F, mi)
+*   **Kirjeldus:** Masinõpe, tehisnärvivõrgud. Pilditöötlus, kõneliidesed. Loomuliku keele töötlus. Robotid ja isesõitvad autod. Mängude strateegia ja mitte mängitavate tegelaste käitumine.
+*   **Eesmärgid:** Kuidas saab automaatselt tuvastada, kas pildi peal olev inimene on Jaak Vilo? Millised algoritmid juhivad tolmuimeja rooboteid ja isesõitvaid autosid? Kas inimkeelt saab modelleerida kasutades suurt hulka tekste internetist? Kursuse eesmärk on tutvuda tehisintellektiga, ning mõnede selle valdkonna harudega nagu masinõpe, loomuliku keele töötlus, pilditöötlus, jt.
+*   **Opivaljundid:** Kursuse põhiteemad on: masinõpe, pilditöötlus, kõnetöötlus, loomuliku keele (teksti) töötlus, robotite ja agentide käitumise modelleerimine, mängude strateegia.
+*   **Eeldusained:** (HVEE.04.028 (Programmeerimine Pythonis tekstiandmetega) VÕI LTAT.03.005 (Algoritmid ja andmestruktuurid) VÕI LTAT.03.001 (Programmeerimine))",👍 Hea,
+2026-03-01 18:57:54,t e h i s i n t e l l e k t i a i n e,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['OIEO.06.091', 'HVLC.09.052', 'FLKE.03.121', 'OIAO.05.074', 'MTAT.03.206']",[],"
+Tehisintellekt ja õigus (OIEO.06.091) on magistriõppe kursus, mis annab ülevaate eetilistest ja õiguslikest väljakutsetest tehisintellekti süsteemide ja (tarkade) robotite kasutamisest kehtivas (Euroopa) õigusnormistikus ning (tulevikus) kehtivatest võimalustest nende tehnoloogiate kasutamist reguleerida. Kursus toimub inglise keeles Tartus. Hindamisel kasutatakse osalemist seminarides ja kirjalikku tööd.
+",👎 Halb,Otsing leidis valed ained (RAG viga)
+2026-03-01 18:58:15,Tarkvaraarhitektuur,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['LTAT.05.003', 'LTAT.05.005', 'LTAT.05.034', 'P2NC.01.085', 'SVNC.00.308']",[],"
+
+Vabandust, andmebaasis puudub kursus nimega ""Tarkvaraarhitektuur"". Kas ma saan sind aidata millelegi muule?",👎 Halb,LLM hallutsineeris/vastas valesti
+2026-03-01 18:58:59,Äriinglite investeerimine,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['P2PC.01.158', 'P2PC.00.630', 'MJJV.10.044', 'MJJV.10.063', 'LOTI.05.102']",[],"Vabandust, andmebaasis puudub kursus, mis käsitleks otse äriinglite investeerimist. Kuid ma võin soovitada kursust **Investeeringute analüüs (unique_ID 2381)**, mis käsitleb investeerimise aluseid, tootlust ja riski, võlakirjade ja aktsiate analüüsi, investeerimisstrateegiaid ning finantsderivatiive. See kursus võib anda põhiteadmised, mida on vaja äriinglite investeerimise mõistmiseks.",👎 Halb,LLM hallutsineeris/vastas valesti
+2026-03-01 18:59:19,Roheettevõtlus,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['LTMR.00.001', 'LTKT.04.003', 'LTOM.00.016', 'SVNC.00.262', 'SVNC.00.262_1']",[],"
+Vabandust, andmebaasis puuduvad otseselt kursused, mis käsitleksid ""Äriinglite investeerimist"" või spetsiifiliselt ""Roheettevõtlust"". Küll aga on olemas kursus, mis puudutab ettevõtlust ja säästlikkust:
+
+**LTMR.00.001 Bioettevõtlus**
+
+*   **Kirjeldus:** Aine eesmärgiks on anda ülevaade äri võimalustest biotehnoloogia valdkonnas, sealhulgas praktilisi näpunäiteid kuidas ettevõtet alustada, äriplaani koostada, ideedele raha leida, intellektuaalset omandit kaitsta, personali leida. Muuhulgas antakse ülevaade biotehnoloogia sektorist nii Eestis kui mujal maailmas.
+*   **Eesmärgid:** Aine läbinud üliõpilane tunneb ettevõtluse aluseid, mis on vajalikud ka uue ettevõtte finantseerimiseks.
+*   **Opivaljundid:** Saab aru kõrgtehnoloogilise väikeettevõtte erinevate valdkondade olemusest, omab baasteadmisi äriplaani koostamisest ning omab ülevaadet Eesti biotehnoloogia sektorist.
+
+Lisaks võib **LTKT.04.003 Ringmajandus ja ressursside kasutus** olla asjakohane, kui roheettevõtluse eesmärgiks on ringmajanduse põhimõtete rakendamine.
+",👍 Hea,
+2026-03-01 18:59:54,STEAM-haridus,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['MVCM.03.002', 'MVCM.03.002_1', 'LOLH.00.003', 'SVHI.02.025', 'SVUH.00.263']",[],"
+Vabandust, andmebaasis puudub otsene vastus STEAM-haridusele. Küll aga on olemas kursus, mis puudutab robootikat seoses õppeprogrammidega I ja II kooliastmes:
+
+**Robootika ja õppeprogrammid I ja II kooliastmes (SVHI.02.025)**
+
+*   **Kirjeldus:** Ülevaade robootika ja õppeprogrammide kasutamisest I ja II kooliastmes. Tutvumine hariduslike robotitega (Qobo, TaleBot, VinciBot, Lego Spike Prime, Lego Spike Essential jt) ja erinevate õpetamise veebikeskkondade ning rakendustega (Scratch, CodeMonkey, Wakelet jt) I ja II kooliastme kontekstis. Rühmatöö.
+*   **Eesmärk:** Omandada esmased teadmised ja oskused robootika ja õppeprogrammide kasutamiseks I ja II kooliastmes.
+*   **Õpiväljundid:**
+    *   Teab ja oskab nimetada ning rakendada enim kasutatavaid robootika õpetamise vahendeid I ja II kooliastmes.
+    *   Teab ja oskab lõimida robootikat ning õppeprogramme enda õpetamise protsessi.
+    *   Teab ja oskab kasutada erinevaid õpetamise veebikeskkondi ja rakendusi I ja II kooliastme õppetegevuse rikastamiseks.
+
+Kuigi see ei kata STEAM-haridust tervikuna, on robootika oluline osa STEAM-õppest, mis ühendab teadust, tehnoloogiat, inseneriteadust, kunst ja matemaatikat.",👍 Hea,
+2026-03-01 19:01:09,Digitaalne fotograafia,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['LTAT.02.036', 'LOTI.05.037', 'LTAT.02.025', 'FLFI.01.101', 'SVHI.02.004']",[],"
+Kursuste nimekirjast leiab digitaalse fotograafiaga seotud kursused:
+
+* **LOTI.05.037 Digitaalne pilditöötlus** (Digital Image Processing) - Aine annab ülevaate pilditöötluse alusteadmistest toetudes varasematele teadmistele programmeerimises.
+* **SVHI.02.004 Digitaalsed tehnoloogiad kunstiõpetuses** (Digital Technologies in Art Teaching) - Tutvustatakse digimaali ja digitaalfotograafiat.
+* **FLFI.01.101 Mõttepildid / valgusepildid** (Thought Images / Light Images) -  Käsitletakse fotograafia filosoofilisi aspekte ja fotosid mõttepiltidena.
+* **LTAT.02.036 Digitaalne pilditöötlus** (Digital Image Processing)- Käsitletavad teemad on pildi kujunemine, formaat ja tüübid, intensiivsuse transformatsioonid ja ruumiline filtreerimine.
+* **LTAT.02.025 Arvutuslik pildistamine** (Computational Imaging) - Kursus keskendub digikaameratele ja valgusvälja kujutisele.
+
+Millise kursuse kohta sa rohkem infot soovid?",👍 Hea,
+2026-03-01 19:01:49,Andmekaitse,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['P2OG.01.061', 'LTAT.02.009', 'OIAO.05.070', 'SVNC.00.171', 'OIAO.05.074']",[],"
+Vabandust, aga ""Digitaalne fotograafia"" kursust ei leidu. Saan aidata ainult nende kursuste kohta, mille andmed on mul olemas.
+
+Seoses **Andmekaitse** kursusega (unique_ID 2171):
+
+**Kirjeldus:** 1.\tAndmekaitseõiguse kujunemine. Andmekaitsealased õigusaktid ELs. (videoloeng, iseseisev õpe)\n2.\tIKÜM esemeline/territoriaalne kohaldamisala. One-shop mehhanism. Kolmandatesse riikidesse andmete edastamine.\nIKSi ja IKÜMi kohaldamisala Eestis.\n3.\tAndmekaitse põhimõisted\n4.\tAndmekaitse põhimõtted ning töötlemise õiguslikud alused.\n5.\tNõusolek, õigustatud huvi; vastuväited; kustutamisnõue\n6.\tVäljendusvabadus vs eraelu puutumatus\n7.\tEriliiki isikuandmed. Nõuded siseriiklikule regulatsioonile. Eriliiki isikuandmed töösuhetes.\n8.\tAvaliku sektori andmetöötlus (automaatsed haldusaktid, proaktiivsed teenused, riigi andmekogud); IKÜM art 23 alusel piirangute kehtestamine\n9.\tAndmekaitsetingimused. Andmesubjekti õigus tutvuda enda kohta käivate andmetega.\n10.\tAndmeturve
+
+**Eesmärgid:** Anda andmekaitseõiguse baasteadmised ning juhtida tähelepanu praktikas eksisteerivatele kitsaskohtadele. Kursusel käsitletakse teooriat käsikäes praktiliste kaasuste ja näidetega. Kursuse läbimine annab õpilasele vajaliku baasi edasiseks süvendatud uurimistööks või andmekaitsespetsialisti väljaõppeks. Kuivõrd isikuandmed on kõikjal, on andmekaitseõiguse baasteadmised kasulikud pea igas valdkonnas, ent kindlasti vajalikud tulevases õigusloometöös ning avaliku sektori andmetöötluse korraldamisel.
+
+**Opivaljundid:** Õppeaine läbinud üliõpilane: -\ttunneb andmekaitset reguleerivaid õigusakte, ja EL andmekaitseõiguse mõisteid, põhimõtteid ja isikuandmete töötlemise põhilisi reegleid ning oskab IKÜMit ning isikuandmete kaitse seadust rakendada kaasuste lahendamisel. , -\tmõistab andmekaitse seost põhiõigustega ning põhiõiguse riive tingimusi., -\tOskab leida ja kasutada teemakohaseid materjale.
+
+**Hindamise info:** Arvestuse sisuks on praktilist laadi ülesannete lahendamine (kaasus, andmekaitsetingimuste kontroll, õigusnormi analüüs). Arvestuse ajad jaanuaris. Arvestus 2 h.
+",👎 Halb,LLM hallutsineeris/vastas valesti
+2026-03-01 19:02:39,üsioteraapia kursused ,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['KKSB.05.107', 'KKSB.05.034', 'KKSB.05.032', 'KKSB.05.119', 'KKSB.05.109']",[],"
+Siin on loetelu füsioteraapia kursustest vastavalt antud andmebaasile:
+
+*   **Süsteemsete haiguste ja vanemaealiste füsioteraapia** (KKSB.05.107)
+*   **Füsioteraapia praktika** (KKSB.05.034)
+*   **Füsioteraapia neuroloogias** (KKSB.05.032)
+*   **Skeleti-lihassüsteemi füsioteraapia I** (KKSB.05.119)
+*   **Füüsikaline ravi füsioteraapias** (KKSB.05.109)",👍 Hea,
+2026-03-01 19:03:30,"rahvusvaheline äri, bak, 3 eap
+","EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['OIEO.06.079', 'SVMJ.07.004', 'SORG.00.069', 'SORG.00.069_1', 'OIEO.06.093']",[],"
+Arvestades sinu soovi ""rahvusvaheline äri, bak, 3 eap"", sobivaim kursus on:
+
+**Sissejuhatus rahvusvahelisse äriõigusesse (unique_ID: 1991)**
+
+*   **aine_kood:** OIEO.06.079
+*   **nimi_et:** Sissejuhatus rahvusvahelisse äriõigusesse
+*   **nimi_en:** Introduction to International Business Law
+*   **eap:** 3.0
+*   **semester:** sügis
+*   **oppeaste:** bakalaureuseõpe
+*   **keel:** inglise keel
+*   **linn:** Tartu linn
+
+**Kirjeldus:** Kursus annab üldise sissejuhatuse rahvusvahelise äritegevuse jaoks olulisematesse õiguse valdkondadesse, sealhulgas lepinguõigus, rahvusvaheline vaidluste lahendamine, Euroopa Liidu konkurentsiõigus, intellektuaalse omandi õigus ja ühinguõigus.
+",👎 Halb,LLM hallutsineeris/vastas valesti
+2026-03-01 19:04:01,aine suurima eap'ga,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['ARFA.02.103', 'SVMJ.03.013', 'MVCM.13.015', 'MV00.00.015_1', 'MV00.00.015']",[],"
+
+Sisehaigused (MV00.00.015) on aine suurima EAP-ga (28.0).",👎 Halb,Otsing leidis valed ained (RAG viga)
+2026-03-01 19:04:48,"wikipedia, youtube, google","EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['SVPC.00.077', 'OIAO.06.050', 'OIAO.06.051', 'FLEE.08.145', 'MTAT.03.132_1']",[],"
+
+Vabandust, aga ma ei saa vastata küsimustele, mis ei ole seotud pakutava kursuse kirjeldustega. Kas sa soovid, et ma otsiksin infot mõne konkreetse kursuse kohta?",👍 Hea,
+2026-03-01 19:05:24,kuidas lennuk lendab,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['LOTI.05.109', 'LOFY.05.032', 'LOOM.04.015', 'LOFY.05.025', 'LOFY.04.040']",[],"
+Vabandust, kursuste loetelus ei ole infot lennukite lennu kohta. Seega ma sellele küsimusele vastata ei saa.",👍 Hea,
+2026-03-01 19:05:57,drooni kursus,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['LOTI.05.109', 'LOTI.05.091', 'LTOM.03.034', 'LOTI.05.010', 'LTTO.00.032']",[],"
+Siin on loetletud kursused, mis käsitlevad droone:
+
+*   **FPV droonilennu alused (LOTI.05.109):** Annab ülevaate FPV droonidest, õpetab ehitust, tööpõhimõtteid, varustuse kasutamist ja hooldust. Sisaldab lennuharjutusi simulaatoris ja Tinywhoop drooniga.
+*   **Kopterdroonide projekt (LOTI.05.091):** Käsitseb arvutitehnika ja juhtimistehnoloogiate rakendamist kopterdroonide (quadrotor) arendamisel. Sisaldab praktilist tööd ROS ja Gazebo keskkonnas.
+*   **Mehitamata sõidukite kasutamine maateadustes (LTOM.03.034):** Annab põhjaliku ülevaate mehitamata sõidukite (sh droonide) kasutamisest maateadustes, uuringute planeerimisest ja andmete analüüsist.
+*   **Robootika I (LOTI.05.010):** Sissejuhatus robotisüsteemidesse, kus kasutatakse Raspberry Pi'd ja Pico't koos GoPiGo platvormiga. Sisaldab praktilisi ülesandeid ja projekti.",👍 Hea,
+2026-03-01 19:06:24,hiina ja jaapani keeled,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['HVLC.08.012', 'HVLC.08.012_1', 'HVLC.08.013_1', 'HVLC.08.013', 'HVLC.08.014']",[],"
+Vabandust, mul on andmebaasis ainult info hiina keele kursuste kohta. Jaapani keele kursusi andmebaasis ei ole.
+
+Siin on info hiina keele kursuste kohta:
+
+*   **Hiina keel algtasemele I (inglise keele baasil), tase 0 > A1.1** (kursuse koodid: HVLC.08.012, HVLC.08.012_1) - 6 EAP, pakutakse kevadel ja sügisel. Õpitakse hääldamist, kirjutamist, elementaarset sõnavara ja grammatikat.
+*   **Hiina keel algtasemele II (inglise keele baasil), tase A1.1 > A1.2** (kursuse koodid: HVLC.08.013, HVLC.08.013_1) - 6 EAP, pakutakse kevadel ja sügisel. Õpitakse suhtlussõnavara, grammatika põhireeglid ja kirjutamist.
+*   **Hiina keel algtasemele III (inglise keele baasil), tase A1.2 > A2.1** (kursuse kood: HVLC.08.014) - 6 EAP, pakutakse sügisel. Õpitakse keerulisemaid lausekonstruktsioone ja rohkem sõnavara.",👍 Hea,
+2026-03-01 19:06:45,looma keeled,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['FLSE.00.260', 'FLSE.00.214', 'FLEE.06.122', 'FLGR.03.157', 'FLKE.05.010']",[],"
+Siin on kursused, mis võivad sind huvitada:
+
+*   **Zoosemiootika: omailm ja loomade kommunikatsioon** (FLSE.00.260) - Kursuse teemaks on loomade märgiline kommunikatsioon. Tähelepanu pööratakse biokommunikatsiooni eeldustele, elementidele ja erinevatele tüüpidele ning selle omadustele erinevates keskkondades.
+*   **Zoosemiootika** (FLSE.00.214) - Kursus annab ülevaate peamistest zoosemiootika autoritest ja kirjandusallikatest ning võimaldab tutvuda biokommunikatsiooni esinemisvormide ja funktsioonidega erinevates loomarühmades.",👍 Hea,
+2026-03-01 19:07:27,tänapäeva majanus,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['SVPH.00.004', 'HVEE.01.019', 'FLAJ.07.091', 'HVKU.04.032', 'SVUH.00.267']",[],"Vabandust, aga pakutud kursuste seast ei leidu otseselt kursust, mis käsitleks tänapäeva majandust.  Lähimad teemad puudutavad ühiskondlikke teooriaid ja kultuuri, mis võivad majanduslikke protsesse mõjutada, kuid ei keskendu sellele otse. 
+
+Siin on mõned kursused, mis võiksid olla teile kasulikud võrreldes pakutud valikuga, kui majandus on teema, mis teid huvitab:
+
+*   **SVUH.00.267 Kaasaja ühiskonna teooriad:**  See kursus käsitleb sotsiaalteaduslikke teooriaid, mis võivad anda konteksti majanduslike suundumuste mõistmiseks.
+*   **HVKU.04.032 Ühiskonna kultuuriline mõtestamine enne ja nüüd:**  Kultuurilised tegurid on majandusega tihedalt seotud, nii et see kursus võib pakkuda väärtuslikke teadmisi.",👎 Halb,Otsing leidis valed ained (RAG viga)
+2026-03-01 19:08:14,Funktsionaalne programmeerimine/analüüs,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['LTAT.03.019', 'MTMM.00.301', 'MTMM.00.095', 'MTAT.03.286', 'HVEE.04.028']",[],"
+Valikuid on kaks:
+
+1. **Funktsionaalprogrammeerimine** (LTAT.03.019): Kursuse eesmärk on tutvustada funktsionaalse programmeerimise paradigmat ja selgitada selle eeliseid. Kursuse läbinud üliõpilane oskab selgitada lambda arvutuse põhimõisteid ja lahendada programmeerimisülesandeid funktsionaalsel viisil.
+2. **Funktsionaalanalüüs I** (MTMM.00.095): Funktsionaalanalüüsi sissejuhatav osa, mis katab meetrilised ruumid, täielikud meetrilised ruumid ja pidevad operaatorid. Kursuse läbinud üliõpilane tunneb põhimõisteid ja oskab tõestada nendega seotud teoreeme.",👍 Hea,
+2026-03-01 19:09:28,"gan, rnn, cnn, lstm","EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['LOMR.01.003', 'LTMR.01.006', 'LTKT.09.002', 'LTMR.01.002', 'LTMS.00.016']",[],"Vabandust, aga teie küsimus ei kuulu nende kursuste hulka. Ma ei saa vastata.",👎 Halb,Otsing leidis valed ained (RAG viga)
+2026-03-01 19:09:52,ai eetika kursus,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['FLFI.02.190', 'ARTH.02.055', 'FLFI.02.003', 'FLFI.02.148', 'OIEO.06.091']",[],"
+Kahjuks ei ole ühtegi kursust, mis ühendaks otseselt kõiki nimetatud termineid (GAN, RNN, CNN, LSTM) ja AI eetikat. Küll aga on üks kursus, mis käsitleb tehisintellekti ja õigust ning puudutab seega AI eetikat:
+
+**OIEO.06.091 Tehisintellekt ja õigus (Artificial Intelligence and Law)**
+
+*   **Kirjeldus:** Kursus annab ülevaate eetilistest ja õiguslikest väljakutsetest tehisintellekti süsteemide ja (tarkade) robotite kasutamisest kehtivas (Euroopa) õigusnormistikus ning (tulevikus) kehtivatest võimalustest nende tehnoloogiate kasutamist reguleerida.
+*   **Eesmärgid:** Aine loob teadmised ja arusaamise viimase aja tehnoloogia arengutest TI ja robootika valdkonnas, aktuaalsematest eetilistest ja õiguslikest küsimustest ning kohaldatavast õigusnormistikust.
+*   **Hindamine:** Active Participation in lectures/seminars with a presentation of a pre-selected topic: 40%, Written paper: 60%.
+
+Kuigi see kursus ei keskendu otseselt GAN-ide, RNN-ide, CNN-ide ja LSTM-ide tehnilistele detailidele, käsitleb see nende rakendamisega seotud eetilisi ja õiguslikke küsimusi.
+",👍 Hea,
+2026-03-01 19:10:33,projektijuhtimine tiimides,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['SORG.01.040', 'HVKU.04.052', 'P2VK.05.327', 'SVNC.00.184', 'LOTI.05.032']",[],"Olen nõustaja ja aitan sind. Siin on kursuste väljavõtted, mis käsitlevad projektijuhtimist tiimides:
+
+*   **SORG.01.040 Projektijuhtimine:** Kursus pöörab tähelepanu projekti inimressurssile ja projektijuhi rollile projekti juhtimisel. Kirjeldatakse võtteid hea meeskonna valikuks ja projekti tulemuste hindamiseks.
+*   **HVKU.04.052 Projektijuhtimine:** Käsitletakse meeskonna juhtimise ja motiveerimise põhialuseid.
+*   **P2VK.05.327 Projektitöö II:** Arendab oskust kavandada ja teostada projekti kaas- ja omafinantseerimise võimalusi. Anda ülevaade personalijuhtimise võttestikust projektitöö kontekstis. Õliõpilane peab oskama märgata erinevaid rolle meeskonnatöös ja omama algteadmisi personalijuhtimisest projektitöö kontekstis.
+*   **SVNC.00.184 Projektipraktika infotehnoloogias:** Õppijad osalevad meeskonnatöös ja täidavad talle määratud ülesandeid, juhivad projekti ja projekti meeskonda.
+*   **LOTI.05.032 Robootika projekt:** Annab kogemuse meeskonnatööna tehtava praktilise tähtajalise projekti planeerimisel, dokumenteerimisel ja elluviimisel. Õppija peab oskama jagada projekti alamtöödeks ja määrata nendevahelised sõltuvused, samuti osaleda meeskonnatöös nii tavaliikme kui ka projektijuhina.",👍 Hea,
