@@ -1,0 +1,19 @@
+{
+  "id": "20260304_234029",
+  "title": "tere",
+  "created_at": "2026-03-04T23:40:33",
+  "messages": [
+    {
+      "role": "user",
+      "content": "tere",
+      "token_input": 0,
+      "token_output": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Palun sisesta OpenRouter API võti külgribal.",
+      "token_input": 0,
+      "token_output": 0
+    }
+  ]
+}
